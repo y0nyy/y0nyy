@@ -1,6 +1,6 @@
 ### Hi there 👋
-Im Yony, im 17 and i live in Germany\n
-This is my public github where i share my creativity & ideas.\n
+Im Yony, im 17 and i live in Germany<br>
+This is my public github where i share my creativity & ideas.<br>
 Here is my Discord Profile 🔽
 [![Discord Presence](https://lanyard.cnrad.dev/api/527108773123325980)](https://discord.com/users/527108773123325980)
 
