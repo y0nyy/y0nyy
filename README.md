@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Im Yony, im 17 and i live in Germany. This is my public github where i share my creativity & ideas.
-Im Currently Owning Several Projects Like Strides Developememnt Or SynthAI, Feel Free To Check My Portfolio For More Info!
+Hello, I'm Yony, a 17-year-old developer from Germany. Welcome to my public GitHub, where I share my creativity and ideas. Currently, I am managing several projects, including Strides Development and SynthAI. Feel free to explore my portfolio for more information. Thank you for visiting!
 
 ---
 - 🔗 Discord Profile
