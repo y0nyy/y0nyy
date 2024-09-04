@@ -1,6 +1,6 @@
 ### Yo Wassup! 👋
 
-Hello, I'm Yony, a 17-year-old developer from Germany. Welcome to my public GitHub, where I share my creativity and ideas. Currently, I am managing several projects, including Strides Development and SynthAI. Feel free to explore my portfolio for more information. Thank you for visiting!
+Hello, I'm Yony, a 17-year-old developer from Morocco/Germany. Welcome to my public GitHub, where I share my creativity and ideas. Currently, I am managing several projects, including Synth Sofworks and Saturn Executor. Feel free to explore my portfolio for more information. Thank you for visiting!
 
 ---
 - 🔗 Discord Profile
