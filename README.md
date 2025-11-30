@@ -1,6 +1,6 @@
 ### Yo Wassup! 👋
 
-Hello, I'm Yony, a 17-year-old developer from Morocco/Germany. Welcome to my public GitHub, where I share my creativity and ideas. Currently, I am managing several projects, including Synth Sofworks and Saturn Executor. Feel free to explore my portfolio for more information. Thank you for visiting!
+Hello, I'm Yony, a 18-year-old developer from Morocco/Germany. Welcome to my public GitHub, where I share my creativity and ideas. Currently, I am managing several projects, including Synth Sofworks and Logic Services. Feel free to explore my portfolio for more information. Thank you for visiting!
 
 ---
 - 🔗 Discord Profile
@@ -15,5 +15,8 @@ Hello, I'm Yony, a 17-year-old developer from Morocco/Germany. Welcome to my pub
 
 ---
 
-- 👀 Visitors to my profile since i added this (lol)
-<img align="left" src="https://profile-counter.glitch.me/y0nyy/count.svg" />
+- Portfolio
+
+  [Portfolio for projects](https://yony.online/)
+
+---
